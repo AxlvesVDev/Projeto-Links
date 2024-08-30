@@ -39,6 +39,11 @@ body {
    
  }
 
+  #container img {
+    border-radius: 5px;
+    
+  }
+
 
   #container {
    width: 100%;
